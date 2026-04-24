@@ -1,7 +1,6 @@
 A full-stack web application that allows users to explore, add, update, and manage drama recommendations.
 
 #Live Demo
-GitHub Pages: https://allie123413.github.io/Drama/
 Local Server (Node.js): http://localhost:3000
 
 #Features
